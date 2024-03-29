@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1680799619 source:c:\users\paula\desktop\laboratore\lab6\app.cpp
+	<iostream>
+	"entitate.h"
+	"repo.h"
+	"tests.h"
+
+1680799791 c:\users\paula\desktop\laboratore\lab6\entitate.h
+	<iostream>
+	<string.h>
+
+1680799761 c:\users\paula\desktop\laboratore\lab6\repo.h
+	"entitate.h"
+	<vector>
+
+1680799542 c:\users\paula\desktop\laboratore\lab6\tests.h
+
+1680799791 source:c:\users\paula\desktop\laboratore\lab6\entitate.cpp
+	"entitate.h"
+	<iostream>
+	<string.h>
+
+1680799890 source:c:\users\paula\desktop\laboratore\lab6\repo.cpp
+	"repo.h"
+	<cmath>
+
+1680799619 source:c:\users\paula\desktop\laboratore\lab6\tests.cpp
+	"tests.h"
+	"assert.h"
+	"repo.h"
+	<iostream>
+
+1680792419 source:c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\app.cpp
+	<iostream>
+	"entitate.h"
+	"repo.h"
+	"tests.h"
+
+1680792591 c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\entitate.h
+	<iostream>
+	<string.h>
+
+1680792561 c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\repo.h
+	"entitate.h"
+	<vector>
+
+1680792342 c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\tests.h
+
+1680792591 source:c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\entitate.cpp
+	"entitate.h"
+	<iostream>
+	<string.h>
+
+1680792690 source:c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\repo.cpp
+	"repo.h"
+	<cmath>
+
+1680792419 source:c:\users\pitar\onedrive\desktop\lab6-oop-nr-reale\lab6\tests.cpp
+	"tests.h"
+	"assert.h"
+	"repo.h"
+	<iostream>
+
