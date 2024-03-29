@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1682684291 source:d:\documents\teme lab faculta\lab2_sd_greedy\colectie.cpp
+	<cstring>
+	"colectie.h"
+
+1682683672 d:\documents\teme lab faculta\lab2_sd_greedy\colectie.h
+	<fstream>
+	<iostream>
+
+1682683811 source:d:\documents\teme lab faculta\lab2_sd_greedy\main.cpp
+	<iostream>
+	"subalg.h"
+	"colectie.h"
+
+1682684113 d:\documents\teme lab faculta\lab2_sd_greedy\subalg.h
+
+1682684128 source:d:\documents\teme lab faculta\lab2_sd_greedy\subalg.cpp
+	<iostream>
+	<cstring>
+	"atm.h"
+
+1682684113 d:\documents\teme lab faculta\lab2_sd_greedy\atm.h
+	"tranzactie.h"
+
+1682683766 d:\documents\teme lab faculta\lab2_sd_greedy\tranzactie.h
+	"colectie.h"
+
+1682683786 source:d:\documents\teme lab faculta\lab2_sd_greedy\tranzactie.cpp
+	"tranzactie.h"
+
+1682677568 source:c:\users\paula\desktop\lab2_sd_greedy\atm.cpp
+	<iostream>
+	"atm.h"
+
+1682676914 c:\users\paula\desktop\lab2_sd_greedy\atm.h
+	"tranzactie.h"
+
+1682676568 c:\users\paula\desktop\lab2_sd_greedy\tranzactie.h
+	"colectie.h"
+
+1682676474 c:\users\paula\desktop\lab2_sd_greedy\colectie.h
+	<fstream>
+	<iostream>
+
+1682677092 source:c:\users\paula\desktop\lab2_sd_greedy\colectie.cpp
+	<cstring>
+	"colectie.h"
+
+1682676612 source:c:\users\paula\desktop\lab2_sd_greedy\main.cpp
+	<iostream>
+	"subalg.h"
+	"colectie.h"
+
+1682676914 c:\users\paula\desktop\lab2_sd_greedy\subalg.h
+
+1682676930 source:c:\users\paula\desktop\lab2_sd_greedy\subalg.cpp
+	<iostream>
+	<cstring>
+	"atm.h"
+
+1682676588 source:c:\users\paula\desktop\lab2_sd_greedy\tranzactie.cpp
+	"tranzactie.h"
+
